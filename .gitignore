@@ -1,0 +1,9 @@
+.env
+*.png
+*.jpg
+fibonacci.py
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.DS_Store
