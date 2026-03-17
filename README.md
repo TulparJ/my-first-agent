@@ -1,6 +1,6 @@
 # My First AI Agent
 
-> A tool-using AI agent built with the **Anthropic Claude SDK** — it doesn't just chat, it *does things*.
+> A tool-using AI agent built with the **Anthropic Claude SDK** - it doesn't just chat, it *does things*.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Anthropic](https://img.shields.io/badge/Powered%20by-Claude-orange)
